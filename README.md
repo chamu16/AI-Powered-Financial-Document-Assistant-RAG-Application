@@ -79,8 +79,3 @@ http://localhost:8501
 * Hybrid search (semantic + keyword)
 * Conversational memory
 * Cloud deployment
-
-## Author
-
-**Charmi Divecha**
-Master of Data Science | The University of Adelaide
